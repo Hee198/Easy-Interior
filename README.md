@@ -20,3 +20,13 @@
 - Dash
 - Plotly
 - NumPy
+
+###저장소 복사
+git clone https://github.com/yourusername/room-layout-3d-visualizer.git
+cd room-layout-3d-visualizer
+
+###필요 패키지 설치
+pip install dash plotly numpy
+
+###코드 실행 후 생성된 주소로 접
+
