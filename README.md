@@ -23,7 +23,7 @@
 
 ### 설치 방법
 
-1. 저장소를 클론합니다:
+1. 저장소를 복제합니다:
 
 ```sh
 git clone https://github.com/yourusername/room-layout-3d-visualizer.git
